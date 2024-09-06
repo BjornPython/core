@@ -182,6 +182,7 @@ FLOWS = {
         "file",
         "filesize",
         "fireservicerota",
+        "first_integration",
         "fitbit",
         "fivem",
         "fjaraskupan",

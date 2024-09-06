@@ -1854,6 +1854,12 @@
       "config_flow": false,
       "iot_class": "local_push"
     },
+    "first_integration": {
+      "name": "first_integration",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_push"
+    },
     "fitbit": {
       "name": "Fitbit",
       "integration_type": "hub",

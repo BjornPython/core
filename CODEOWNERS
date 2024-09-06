@@ -460,6 +460,7 @@ build.json @home-assistant/supervisor
 /tests/components/fireservicerota/ @cyberjunky
 /homeassistant/components/firmata/ @DaAwesomeP
 /tests/components/firmata/ @DaAwesomeP
+/homeassistant/components/first_integration/ @0.1.0
 /homeassistant/components/fitbit/ @allenporter
 /tests/components/fitbit/ @allenporter
 /homeassistant/components/fivem/ @Sander0542
